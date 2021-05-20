@@ -1,7 +1,7 @@
 # swarm_pattern_formation
 
 * Create a ros workspace for ex: mkdir -p drone_ws/src
-* Type cd.. and catkin_make
+* Type cd drone_ws and catkin_make
 * Now download the zip file and extract it inside the src folder of your workspace
 * Install opencv,eel,multiprocessing libraries
 * Install chromium
